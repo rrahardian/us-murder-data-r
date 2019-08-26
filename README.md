@@ -1,1 +1,3 @@
-"# us-murder-data-r" 
+-> open r studio
+-> select all lines (ctrl + a)
+-> run (ctrl + enter)
